@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    font-family: 'Roboto';
+}
+
+.box {
+    display: flex;
+    align-items:center;    
+}
+
+.score-txt {
+    font-size: 35px;
+    margin-left: 10px;
+    margin-top: 5px;
+    color: #3E50B4;
+}
+
+.heart {
+    width: 45px;
+}
