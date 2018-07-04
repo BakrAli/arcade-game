@@ -4,6 +4,19 @@ when you lose popup will appear to tell you the score.
 
 # Movements
 Use keyboard arrows to controll the spirit  
-| UP | DOWN | LEFT | RIGHT |
-|---:|------|------|-------|
-| 🡡  |  🡣   | 🡠    |  🡢   |
+
+
+UP | DOWN | LEFT | RIGHT
+--- | --- | --- | ---
+`🡹` |  `🡻` | `🡸` | `🡺` 
+
+# Browser Support
+the game support all latest versions of browsers like :
+* Firefox
+* Chrome
+* Microsoft Edge
+* Opera
+* Safari
+
+# Try the game
+[Live Preview](https://bakrali.github.io/arcade-game)
